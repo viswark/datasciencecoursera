@@ -1,15 +1,15 @@
 Codebook
-Description
+- Description
 
 The source data for this project was constructed by a group of researchers who set out to create a human activity recognition database in order to identify various basic human activities with accelerometer data.
 
 The goal of our project is to construct a tidy set using R. The tidy data set is an assembly of disaparate activity, subject, and accelerometer data.
 
-Sampling Information
+- Sampling Information
 
 Thirty subjects were used in this study and performed activities such as walking, sitting, and standing while wearing a smart phone with an accelerometer. The accelerometer data was captured and packaged as the human activity recognition database.
 
-File Information
+- File Information
 
 The output of run_analysis.R which is tidyData.txt contains the following information:
 
